@@ -1,0 +1,17 @@
+{
+  "name": "njs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "got": "^11.5.1",
+    "youtube-playlist": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
